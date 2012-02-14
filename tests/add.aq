@@ -1,0 +1,4 @@
+add is x, y
+    x + y
+
+sum is add with 1 and 2
