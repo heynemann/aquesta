@@ -1,4 +1,5 @@
-add is x, y
+add x, y does
     x + y
+end
 
 sum is add with 1 and 2
